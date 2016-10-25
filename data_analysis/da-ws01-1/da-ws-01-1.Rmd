@@ -1,0 +1,46 @@
+---
+title: "da-ws-01-1"
+author: "Christian Lengemann, Jana Schönemann, Sebastian Richter"
+date: "24 Oktober 2016"
+output: html_document
+---
+
+## R Markdown
+
+```{r}
+a<-2
+b<-5
+
+r1<-a+b
+r2<-a-b
+r3<-a*b
+r4<-a/b
+
+v1<-c(r1,r2,r3,r4)
+
+x1<-a**b
+
+v1<-c(r1,r2,r3,r4,x1)
+
+print(v1)
+
+v1
+
+c<-"sum"
+d<-"difference"
+e<-"product"
+f<-"ratio"
+g<-"by the power"
+
+v2<-c(c,d,e,f,g)
+
+df<-data.frame(v1,v2)
+
+df<-data.frame(Results=v1, Operation=v2)
+
+df
+
+df[3,1]
+
+```
+

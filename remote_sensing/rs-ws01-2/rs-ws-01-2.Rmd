@@ -1,0 +1,16 @@
+---
+title: "rs-ws-01-1"
+author: "Christian Lengemann, Jana Schönemann, Sebastian Richter"
+date: "25 Oktober 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+![Abb1: Aufgabe 5 - hightrange](D:\DatenGeo/hightrange.jpg)
+
+![Abb2: Aufgabe 3 - intensity ](D:\DatenGeo/intensity.jpg)
+
+```
+
