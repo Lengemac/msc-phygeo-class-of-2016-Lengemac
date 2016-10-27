@@ -8,9 +8,8 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-![Abb1: Aufgabe 5 - hightrange](D:\DatenGeo/hightrange.jpg)
+![hightrange](C:\Users\Christian\Documents\GitHub\RemoteSensingDaten\hightrange1.jpg)
 
-![Abb2: Aufgabe 3 - intensity ](D:\DatenGeo/intensity.jpg)
+![intensity](C:\Users\Christian\Documents\GitHub\RemoteSensingDaten\intensity1.jpg)
 
 ```
-
